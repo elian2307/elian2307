@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I'm Elian!
 
-<!--
-**elian2307/elian2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Engineering student who likes building things that work in real life, not just in theory.
 
-Here are some ideas to get you started:
+## 💻 Tech & Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across multiple technologies, from microcontrollers to web development (vanilla, Laravel, React) and Android mobile development, using languages like Python, Java, and Kotlin.
+
+- Microcontrollers (ESP32, Raspberry Pico, Arduino)
+- Web development (Vanilla, Laravel, React)
+- Android mobile development
+- Python
+- Java
+- Kotlin
+-C/C++ (For microcontrollers)
+- Linux distributions (mainly Debian and its derivatives)
+
+## Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elian2307&layout=compact)
