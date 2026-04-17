@@ -12,7 +12,7 @@ I work across multiple technologies, from microcontrollers to web development (v
 - Python
 - Java
 - Kotlin
--C/C++ (For microcontrollers)
+- C/C++ (For microcontrollers)
 - Linux distributions (mainly Debian and its derivatives)
 
 ## Github Stats
