@@ -16,4 +16,4 @@ I work across multiple technologies, from microcontrollers to web development (v
 - Linux distributions (mainly Debian and its derivatives)
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elian2307&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elian2307&layout=compact&theme=tokyonight)
